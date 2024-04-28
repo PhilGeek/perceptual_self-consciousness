@@ -1,4 +1,3 @@
-*.aus.
 *.bbl
 *.blg
 *.brf
@@ -9,3 +8,5 @@
 *.pdf
 *.synctex.gz
 *.toc
+*.lb
+*.aux
