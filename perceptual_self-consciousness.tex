@@ -32,10 +32,12 @@
 % \usepackage{endnotes}
 
 % XeTeX
-\usepackage[cm-default]{fontspec}
+\usepackage{fontspec}
 \usepackage{xltxtra,xunicode}
 \defaultfontfeatures{Scale=MatchLowercase,Mapping=tex-text}
 \setmainfont{Hoefler Text}
+\DeclareFontShape{TU}{HoeflerText(0)}{m}{sc}%
+       {<-> "Hoefler\space Text:Letter\space Case=Small\space Caps"}{}
 \newfontfamily{\sbl}{SBL Greek}
 
 % Bibliography
