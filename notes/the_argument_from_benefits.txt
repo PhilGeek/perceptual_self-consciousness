@@ -1,0 +1,21 @@
+THE ARGUMENT FROM BENEFITS
+
+According to the third offering, sōphrosunē is knowledge of:
+
+	(1) REFLEXIVE: itself
+	(2) HIGHER-ORDER: other knowledges
+	(3) OPPOSITIONAL: their absence
+	(4) EXCLUSIVE: and no other thing
+
+Recall, Socrates proposes two inquiries: First, they are to inquire into the possibility of Critias' strange knowledge. And second they are to inquire into the benefit of possessing Critias's strange knowledge
+
+Whereas the case against the possibility of Critias' strange knowledge, The Argument from Relatives, focussed on REFLEXIVE, the case agains the benefit of possessing such knowledge will focus on EXCLUSIVE.
+
+Let's begin by re-examining that feature of the third offering. Critias claims that (a) sōphrosunē alone (monē 166c2, 166e5) is of itself and other knowledges. By contrast, (b) all other knowledges are not of themselves or other knowledges but rather have proprietary objects or subject matters that are distinct from such knowledge. Later (167b10–c2), Socrates will add a further element: that (c) sōphrosunē is knowledge of itself and other knowledges and their lack and no other thing (ouk allou tinos 167b11). So the content of sōphrosunē is exhausted by these, having no further aspect to its subject matter. This has an unstated implication that only begins to emerge in Socrates' discussion of the Puzzling Disanalogies. Recall, in applying Critias' account to vision, Socrates considers whether there could be a vision of itself, other visions, their lack, and is not of what other visions envision, namely color. So the vision of visions does not see through these visions to the color scenes that they disclose. Similarly, If sōphrosunē alone is of itself and other knowledges and their lack, and this exhausts the content of sōphrosunē, then sōphrosunē will not have as part of its content the proprietary objects of the other knowledges. So sōphrosunē is intransitive or nontransparent. Sōphrosunē may take the other knowledges as its objects but it does not, in turn, take the objects of these other knowledges as its own. Thus, for example, while medicine may be among the knowledges known, sōphrosunē does not take health and disease, the proprietary subject matter of medicine, as among its objects. 
+
+The intransitivity or nontransparency of the self-knowledge with which Critias identifies sōphrosunē will only be made fully explicit in The Argument from Benefits. The case agains the benefit of possessing such knowledge crucially depends upon this unstated implication.
+
+	SOCRATES: Come then; suppose it is perfectly possible: how is one helped thereby to know what one 	knows and does not know? For this, you are aware, we said was the meaning of self-knowledge and 	sōphrosunē, did we not? (Charmides, 169d)
+
+(This last question is presumably a back reference to 167a.)
+
