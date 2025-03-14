@@ -15,7 +15,40 @@ Let's begin by re-examining that feature of the third offering. Critias claims t
 
 The intransitivity or nontransparency of the self-knowledge with which Critias identifies sōphrosunē will only be made fully explicit in The Argument from Benefits. The case agains the benefit of possessing such knowledge crucially depends upon this unstated implication.
 
-	SOCRATES: Come then; suppose it is perfectly possible: how is one helped thereby to know what one 	knows and does not know? For this, you are aware, we said was the meaning of self-knowledge and 	sōphrosunē, did we not? (Charmides, 169d)
+One further observation about the third offering, this time concerning, not exclusivity, but its higher-order aspect. Sōphrosunē is knowledge of other knowledges, at least in part. This has first- and third-personal aspects. So a sophron person, as Critias conceives of them, will know what they know. This is the first-personal aspect. This is what one would naturally assume given the Critias' identification of sōphrosunē with a form of self-knowledge. But importantly, the sophron person will know what other knowers know. Both the first- and third-personal aspects will play a role in The Argument from Benefits.
+
+The Argument from Benefits is developed over 5 Stephanus pages (170–175). It picks up on a persistent theme, or leitmotif, of the Charmides, namely the value or benefit of sōphrosunē or being sophron. The value or benefit of that virtue is never in doubt. Rather, purported accounts of that virtue are criticized for not capturing that value. 
+
+	SOCRATES: Come then; suppose it is perfectly possible: how is one thereby any more able to know what one knows and does not know? For this, you are aware, we said was the meaning of self-knowledge and sōphrosunē, did we not? (Charmides, 169d)
 
 (This last question is presumably a back reference to 167a.)
 
+Socrates is beginning to lead Critias to mark a distinction between knowing that one knows and does not know and knowing what one knows and doesn't know. It is traditional for Anglophone commentators to mark this distinction as knowing that vs knowing what, which is fine, but one should be cautious as to how this is understood. The contrast is not between propositional knowledge whose content is specified by a that-clause as opposed to some form of practical knowledge such as know-how. What is meant will become clearer as we proceed. It is not immediately clear to Critias who claims that it must immediately follow, since someone who possesses knowledge of itself will become similar to it and so know themself. (Notice the transition from an impersonal to a personal form of reflexivity.) Socrates agrees (perhaps this is a dialectical concession, perhaps not), but claims that this is besides the point.
+
+	SOCRATES: I do not dispute...that when a man has that which knows itself he will know himself; but having that, how is he bound to know what he knows and what he does not know?
+	CRITIAS: Because, Socrates, the two things are the same.
+	SOCRATES: I daresay...but I am afraid I am still my old self: I still do not see how knowing what one knows and does not know is the same as the other. (169e–170a)
+	
+Third offering is referred throughout as epistēmē epistēmēs (knowledge of knowledge or science of science) and sometimes as epistēmē epistēmōn (knowledge of knowledges or science of sciences). This is just a label for the account given in the third offering.
+
+Let's take a close look at (170a5–c8):
+
+(1) Suppose there is a knowledge of knowledge, it will only be able to discriminate knowledge from non-knowledge.
+
+Again, Socrates is operating with a background conception of knowledge as a discriminatory capacity. Specifically, it is the capacity to discriminate a thing from its opposite. So to know medicine is to be able to discriminate health from disease. So to know knowledge is to discriminate knowledge from ignorance. However, this conception of knowledge is not solely operative here. It is claimed that to possess the science of science ONLY endows one with this discriminatory capacity. Socrates is assuming exclusivity.
+
+(2) Knowledge or lack of knowledge of medicine is distinct from the knowledge or lack of knowledge of justice.
+
+Socrates is again emphasizing the intentional character of knowledge. Moreover, he seems to be emphasizing more specifically that knowledges are distinguished by their proprietary subject matters (health and disease in the case of medicine and justice and injustice in the case of politics). The thought seems to be that every knowledge is identical to itself and distinct from other knowledges in virtue of its proprietary object or subject matter, which is, at least in the usual cases, distinct from the knowledge itself (the proprietary object known transcends the knowing of it, in Sartre's sense).
+
+(3) Medicine is knowledge of health and disease, politics is knowledge of justice and injustice, and so knowledge of knowledge is nothing but knowledge of knowledge and ignorance.
+
+Here the point made in (2) is extended to knowledge of knowledge and exclusivity is again emphasized.
+
+(4) Suppose that a sophron person is not a physician or a politician. They have knowledge of knowledge and its lack, but they do not have knowledge of health and disease nor knowledge of justice and injustice. Such a person knows that (hoti) they know something (or do not know something) and presumably this is the case both of himself and others.
+
+The initial supposition is not yet in play. Socrates is also beginning to introduce the knowing that vs knowing what distinction. Socrates emphasizes the first- and third-personal aspects of knowledge of knowledge, but the focus in this passage is primarily first-personal. The third-personal aspect will be emphasized in a later passage that is being proleptically anticipated.
+
+(5) But how will such a person know what (ho ti) they know by virtue of that knowledge. One knows health by virtue of medicine, not sōphrosunē, harmony by music not sōphrosunē, building by architecture not sōphrosunē, and so on for all the other cases.
+
+(6) So if the sophron person knows ONLY knowledge and its opposite, then they won't simply by being sophron know health and building.
