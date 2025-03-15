@@ -1,0 +1,91 @@
+DA 3.2 opens and closes with aporiai. Our focus will be on the initial aporia, concerning the possibility of perceiving that we see and hear. This is followed by the claim that sounding and hearing are teh same actuality though they differ in being which is used to criticize earlier students of nature, in particular Protagoras, at least as represented by the Theaetetus. After which perception is claimed to be a ratio or mean. And finally an aporia about apperceptive unity perceptual consciousness is given: If white and sweet are presented to different senses then how can we perceive that one thing is both white and sweet?
+
+Hamlyn describes the chapter as rambling. perhaps it is. But in the first instance we should try to discern what unity we can find in its contents and only concluded that it concerns disconnected topics having tried and failed. 
+
+3.2 is the last chapter on perception in book 3 and is immediately followed by a discussion of phanasia. 
+
+I will be assuming that two hermeneutic desiderata will be operative in coming to understand the opening aporia of DA 3.2.
+
+First, that it is a partial response and is informed by the Charmides discussion of The Argument from Relatives. 
+
+Second, insofar as it is possible, it should be read in the context of the chapter as a whole as well as the previous chapter, DA 3.1, where it is argued that there are only five senses.
+
+While these desiderata constrain acceptable interpretations they do not do so uniquely. Different commentators interpret the Charmides differently and thi s will lead then to see different influences on the A's opening aporia. Similarly for how Da 3.1-2 hand together as a unity if, at all. Nevertheless, the desiderata impose a substantial constraint on interpretation.
+
+
+(1) Since we perceive that we see and hear, it must wither be (a) by sight that one perceives that one sees or (b) some other [sense]
+
+(2) But the same will be of sight and the underlying color. So either there will be two senses of the same, or a sense will be of itself.
+
+(3) Further, if the sense which is of sight is different, either (a) there will be an infinite regress or (b) some sense will be of itself. So one should grant this of the first.
+
+(4) But there is a puzzle. For if to perceive by sight is to see, and if it is color or what has color that one sees, then that which first sees has color.
+
+(5) But it is clear that to perceive by sight is no single thing; for even when we do not see, it is by sight that we discriminate dark and light, though not in the same way.
+
+(6) Further, that which sees is in a sense colored. For each sense organ receives the sense object without its matter; that is why even after the sense objects have gone, sensations and images remain in the sense organ.
+
+A traditional reading of the argument is as follows. We perceive that we se and here, but how is this possible? Two alternatives. either it is by sight that we see or that is by some other sense. These two alternatives are then considered beginning with the latter. If it is by another sense that we see then this faces two difficulties. First, if by some other sense, then this sense takes both the seeing and what is seen, color or at least a colored object, as its object. But then there will be two senses, sight and this other sense, that will be of the same object, color. But this is implausible. Second, if it is by another sense, an infinite regres threatens. This could only be stopped, if one of these senses were of also of itself, but then we might as well have said this of the first. A now considers the second alternative which is puzzling as well. For if to perceive by sight is to see, and if it is color or what has color that one sees, then that which first sees has color. Here, however, A provides two suggestions concerning how this puzzle may be resolved. First, to perceive by sight is no single thing; for even when we do not see, it is by sight that we discriminate dark and light, though not in the same way. Second, hat which sees is in a sense colored. For each sense organ receives the sense object without its matter; that is why even after the sense objects have gone, sensations and images remain in the sense organ.
+
+On the traditional reading, the main exegetical difficulty is in coming to understand how these two suggestions could resolve the initial difficulty for the second alternative, that it is by sight that we perceive that we see.
+
+The traditional reading has been questioned by more recent commentators. Without committing two it, let us go through and look at each of the steps of the aporetic reasoning.
+
+Remarks about (1):
+
+First about the verb "to perceive", aisthenesthai. It may be read more narrowly as strictly perceptual or more broadly as awareness. (Notice that this latter, broader reading is consistent with sight being the source of this awareness. There is after all a difference between seeing the seeing of a colored body and being aware of the seeing of that colored body.) Perhaps this difference in sense need not be resolved, at least initially. It's reading may be left open, to eventually be resolved by the proper resolution of the aporia.
+
+The present tense use of the verb is consistent both with our always perceiving that we see or hear or that we sometimes perceive that we see and hear. So does the relevant form of self-awareness accompany every perceptual activity of wakeful consciousness or only some. If, as we are assuming, this puzzle is a response to The Argument from Relatives in the Charmides, then if you think that the tension between reflexivity and intentionality is best resolved by retaining reflexivity and rejecting intentionality, there will be some motive to think that self-awareness accompanies every perceptual activity of wakeful consciousness. If you retain intentionality by substituting reflectivity for reflexivity, there will be some motive to think that the self-awareness accompanies only some perceptual activity, those activities that are the intentional object of a higher-order reflective act (since one may perceive without reflecting upon it).
+
+Though A only claims that we perceive that we see and hear, plausibly this partial enumeration of the senses is meant to be a mark of generality. So the claim is perhaps best understood as a general one applicable to all five senses.
+
+A seems to be assuming that we, in some sense, perceive that we see and hear, and proceeds to consider how this is possible. A thinks that there are two ways that this is possible. First that it is by sight that we perceive that we see (and by audition that we perceive that we hear, etc.). And, second, that it is by some other sense. (A only says some other, hetera, but it is widely agreed that A is elliptically referring to some other sense).
+
+Remarks about (2):
+
+"But the same will be of sight and the underlying color." Same what? On the traditional reading, the same, here, is the same sense, namely the latter alternative, a sense different from sight that perceives that we see. But the previous sentence, by itself, does not force this reading. Perhaps the claim that the sense is of sight and the underlying color is meant to apply to both alternatives, including the previous one, that it is by sight that we perceive that we see and what is seen.
+
+On the traditional reading, the latter alternative, that it is a sense different from sight by which we perceive that we see, is subject to a difficulty. For as a consequence there will be two senses that perceive the underlying color, sight and the different sense. But that is absurd. But why? Perhaps A is implicitly appealing to the idea that color is the proper object of sight. To be the proper object of sight one must be perceptible, perceptible in itself, and perceptible to one sense alone. It is this third condition of being a proper object that is the source of the problem. Since color is the proper object of sight, it could not be the object of any other sense. But why suppress the crucial premise? Especially one that only occurs in the previous book? Supposing the absurdity can be underwritten, A then recommends the previous alternative on which sight is reflexive.
+
+On the alternative, where the observation applies both to sight and the other sense, we merely get the consequences of each. If by sight that we perceive that we see then sight is reflexive. If by the other sense, then there will be two senses that perceive the same object. But how does that square with color being a proper object? Is the obvious objection simply not made? And what role does this claim play in the overall argument.
+
+Concerning the claim that perceiving that we see would involve perceiving what we see has puzzled some commentators. If, however, A is addressing the Charmides puzzle, then there is an obvious thought. That intransitivity or nontransparency has implausible consequences is a regular motif in that dialogue. A, a student of the dialogue, insists, here, upon transitivity or transparency. So in perceiving that we see we perceive, as well, what we see. 
+
+Remarks about (3):
+
+If it is a sense other than sight by which we perceive that we see, then there will be an infinite regress. Moreover, it is vicious, as A insists that the regress stopper has a certain character, that it be reflexive. But what principle is the regress generated. A never says, nor is it obvious.
+
+Supposing that there is a regress why is it vicious? The explanation of the regress might also explain its vicious character, but not necessarily. So we need to know both the principle that generates the infinite series and an explanation of its vicious character.
+
+These lines remain silent about the wanted principle and explanation. One will not discern them merely by staring at these lines. One could of course speculate, but that risks anachronistic projection and one should only do that once one has run out of road. In the first instance, one must look further afield. To how the initial aporia hangs together with the rest of the chapter, or how it develops or elaborates on the puzzlement found in the Charmides.
+
+Concerning the Charmides, there is nothing that corresponds to the threat of infinite regress that abandoning reflexivity for reflectivity risks. The puzzle in the Charmides leaves it open whether one should abandon reflexivity for seeing being the intentional object of a higher order reflective act. The regress argument, on a traditional understanding, shows that this alternative is no alternative at all since reflexivity is required to sopt the vicious regress.
+
+Remarks about (4):
+
+A puzzle arises about the reflexive case. This puzzle would apply to both perceiving by sight that we see and to the reflexive character of any regress stopper. 
+
+The puzzle:
+(a) To perceive by sight is to see
+(b) It is color or what has color that one sees
+(c) That which first sees has color
+
+What is that which first sees? On one understanding that which first sees is the seeing of the color or what has color. Following this nomenclature and extending it, that which second sees would be perceiving by sight the seeing of the color or what has color. 
+
+Why think that which first sees has color? This has puzzled some commentators. However, on the assumption that A is responding to the Charmides, then this is explicable. (4) is in effect a compressed variant of The Argument from Relatives. (4) merely raises the puzzle or aporia, but does not resolve it. Subsequently A will make two suggestions that are meant to help resolve or at least mitigate the puzzlement.
+
+Remarks about (5):
+
+It is clear that to perceive by sight is no single thing. A characteristic move by A. How might this observation help? The puzzle, assumed that perceiving by sight color and what has color is the same kind of thing as perceiving by sight that one sees. This is what drives the thought thought that seeing must be colored. If seeing is of color or what has color, and perceiving by sight that one sees is seeing, then it follows that the seeing that is seen must be colored. But suppose that perceiving by sight color or what has color is not the same thing as perceiving by sight that one sees. Then just because seeing is of color, it would not follow that perceiving by sight that one sees is itself of color or what has color.
+
+Let's consider example put forward in support of the thesis that to perceive by sight is no single thing: For even when we do not see, it is by sight that we discriminate dark and light, though not in the same way. A's idea seems to be this. Color is what is seen in light. When in complete darkness, what has color is not seen. In this sense, in darkness, we do not see. And yet, opening our eyes in complete darkness we sense the darkness. And it is by sight that we sense the darkness even if in perceiving by sight the darkness we see no color.
+
+(Isn't darkness black?)
+
+Remarks about (6):
+
+That which sees is in a sense colored. At first blush, this seems in sharp contrast with the first suggested resolution. The first suggestion was that in being distinct perceiving by sight that one sees the seeing need not be colored. The second suggestion is that it might yet be though in a different sense. Though seeming to point in different directions the two suggestions are in fact consistent. 
+
+That which sees is, here, the sense organ, the eye. The eye contains a transparent medium, and the transparent medium receives the color seen through it. But a transparent medium does not become colored in the way that what has color has. In A's technical vocabulary, the medium has received the form without the matter.
+
+
