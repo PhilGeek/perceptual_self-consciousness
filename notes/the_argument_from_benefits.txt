@@ -45,10 +45,74 @@ Socrates is again emphasizing the intentional character of knowledge. Moreover, 
 
 Here the point made in (2) is extended to knowledge of knowledge and exclusivity is again emphasized.
 
-(4) Suppose that a sophron person is not a physician or a politician. They have knowledge of knowledge and its lack, but they do not have knowledge of health and disease nor knowledge of justice and injustice. Such a person knows that (hoti) they know something (or do not know something) and presumably this is the case both of himself and others.
+(4) Suppose that a sophron person is not a physician or a politician or. They have knowledge of knowledge and its lack, but they do not have knowledge of health and disease nor knowledge of justice and injustice. Such a person knows that (hoti) they know something (or do not know something) and presumably this is the case both of himself and others.
 
-The initial supposition is not yet in play. Socrates is also beginning to introduce the knowing that vs knowing what distinction. Socrates emphasizes the first- and third-personal aspects of knowledge of knowledge, but the focus in this passage is primarily first-personal. The third-personal aspect will be emphasized in a later passage that is being proleptically anticipated.
+The initial supposition is not yet in play. Socrates is also beginning to introduce the knowing that vs knowing what distinction. Socrates emphasizes the first- and third-personal aspects of knowledge of knowledge, but the focus in this passage is primarily first-personal. The third-personal aspect will be emphasized in a later passage that is here being anticipated.
 
 (5) But how will such a person know what (ho ti) they know by virtue of that knowledge. One knows health by virtue of medicine, not sōphrosunē, harmony by music not sōphrosunē, building by architecture not sōphrosunē, and so on for all the other cases.
 
+The supposition of (4) is now in play. We are supposing that there is a sophron person, and so has knowledge of other knowledges, and their lack, but not what other knowledges know. Socrates poses a question: Is it by being sophron or being a physician that one knows health, and so on for all the other cases? And Critias concedes that it is by being a physician and not by being sophron. The sophron person in knowing only knowledge and its opposite won't thereby, simply by being sophron, know what is known by these known other knowledges. 
+
 (6) So if the sophron person knows ONLY knowledge and its opposite, then they won't simply by being sophron know health and building.
+
+That transitivity or transparency fails on Critias' account alienates the sophron person from what is known by the knowledge known in being sophron. The sophron person merely knows that they know something, but simply by being sophron they don't know what is that they know. 
+
+Being sophron, or sōphrosunē, will not be knowledge of what one knows and does not know, it would merely be knowing that one knows or does not know. Socrates now draws out an implication for the third personal aspect of Critias' account. For being sophron, on Critias' account, involves the power of judging what other people know and do not know. But how can one know that someone know what they claim to know merely by knowing that they know, that is, knowing that they know something or another without knowing what they know. It seems that intransitivity or non-transparency is inconsistent with this alleged power of the sophron person, as Critias conceives of sōphrosunē. (Note: Socrates is not pressing this as an objection to Critias' account. It is rather the basis of an objection yet to come.)
+
+(1) Suppose that the sophron person lacks medicine, understood as medical knowledge. And suppose that a physician who possesses such knowledge themselves lacks knowledge of knowledge, the ability, possessed by the sophron, to discriminate knowledge from non-knowledge. 
+
+(2) How will the sophron person determine that the physician knows what he claims to know, health and disease.
+
+(3) The sophron couldn't discuss medicine with the physician since, by hypothesis, the sophron person lacks medical knowledge.
+
+(4) And the physician who possesses knowledge of health and disease, lacks knowledge of medicine since medicine is a kind of knowledge and the physician lacks the power to discriminate knowledge from non-knowledge. So it would seem that the hypothetical physician could not discuss medicine, since they lack knowledge of knowledge.
+
+(5) The sophron person will know that the physician possesses knowledge but they won't which knowledge that is.
+
+(6) Medicine is different from other knowledges in having as its proprietary object or subject matter health and disease. 
+
+(7) Knowledges have proprietary domains in which their subject matter is found. Knowledge of things outside that domain are irrelevant to determining whether someone has knowledge of the given domain.
+
+(8) It is the domain of health and disease that one must inquire into to determine whether someone is a physician (and only that).
+
+(9) It is only in inquiring into the proprietary domain that one can come to know about its subject matter and thus come to be able to judge whether claims about that domain are true, and actions in that domain correct.
+
+(10) Being a physician involves the possession of such knowledge, a knowledge that our hypothetical sophron person lacks.
+
+(11) So the sophron person won't be able to discriminate a physician who possesses medicine from a non-physician who nevertheless claims to be one. And so on, for all those who possess the other knowleges.
+
+The sophron person's inability, just by being sophron, to judge what another person knows has implication as to its benefits.
+
+Recall, Socrates asked what sōphrosunē is knowledge of such that is distinct from this knowledge (166b5–6)? Critias responded that while every other form of knowledge is knowledge of something distinct from itself, sōphrosunē is different—it alone (monē) is knowledge of these knowledges and of itself (166b9–c3). Sōphrosunē is, according to Critias, a kind of sovereign knowledge, governing all other forms of knowledge. It is this sovereign status that that distinguishes sōphrosunē from the other knowledges that it governs and justifies why it alone should take itself as an object and so depart from the pattern displayed by subordinate forms of knowledge. What's driving Critias here is a conception of sōphrosunē as a civic virtue. A sophron ruler will not only know what they know and do not know, but they will also know what their subordinates know and do not know and so will be able to assign them appropriate responsibilities in the running of the city. So the sovereign knowledge is the knowledge of a sophron sovereign. 
+
+But sōphrosunē, as Critias conceives of it, could not play this civic function and would lack the benefits that such a civic virtue would provide.
+
+171dff 
+
+Suppose as was initially supposed, the sophron person knows what they know and does not know and knows what others know and do not know. The sophron person would act rightly in the domain of which they know and not act in domains that they lack knowledge, but would rather consult with those who possess knowledge of that domain or even assign them the responsibility of acting in that domain. Nor would we assign responsibilities to act in a domain to those ignorant of that domain. A household ordered by sōphrosunē or a state whose sovereign was sophron would thereby be well ordered. 
+
+According to third offering, the sophron person knows itself, other knowledges and their lack, and no other thing. It is this last condition, exclusivity, that limits such knowledge to knowledge that they know or do not know (and others know or do not know) to the exclusion of knowing what they know or do not know (and others now or do not know). It is beneficial for a sovereign to know what they know and do not know, and so speak truly and act rightly in those domains in which they know and refrain from speaking or acting in domains of which they are ignorant. It is beneficial for a sovereign to know what others know and do not know so that they can assign appropriate responsibilities to their subordinates, that is, they will assign them responsibilities to act only in domains of which they know so that they may speak truly and act rightly in those domains. But the knowledge that sophron is identified with is merely the power to discriminate knowledge from non-knowledge. But that is an insufficient basis to determine which knowledge is recognized as knowledge. The only thing that could determine the identity of that knowledge and how it differs from other knowledge is by determining the subject of its proprietary domain, by knowing what it knows. But that is what exclusivity, with its implication of intransitivity or non-transparency rules out.
+
+That is a claim about a benefit that sōphrosunē lacks. It lacks the benefit of conferring well-orderedness to a household or a state if the head of the household or the sovereign were sophron. But just because something lacks a benefit, it does not follow that it is without benefit. Perhaps it has another, potentially even greater, benefit. 
+
+The logical point is taken. But this already must be a blow to Critias. This conception of the value of a sophron sovereign plausibly goes to the heart of sōphrosunē as he undertands it to be, and is part of why it is central to his self-conception as a philo-Laconian aristocrat. 
+
+What benefit does knowledge of knowledge confer? Socrates makes a suggestion that Critias accedes to. The value of sōphrosunē as knowledge of knowledge would be: 
+
+(1) Someone who possesses the power to discriminate knowledge from non-knowledge will have an easier time learning. 
+
+Learning is the process of coming to know. And it is useful in learning and so coming to know to be able to recognize when you come to know something about the given domain and to distinguish this from merely having an opinion about that domain.
+
+(2) They will perceive everything more plainly.
+
+In knowing about the subject matter of some domain, not only will they know that particular object of knowledge but they will also behold the knowledge of it, the science as it were.
+
+(3) They will probe more surely into the knowledge of other people.
+
+(3) is meant to follow on from (2). They will probe more surely into the opinions of other people in the domain that they know and behold the science. And those that do not know and behold the science will probe more feebly and poorly.
+
+Even if these benefits are genuine, they are not as great as a civic virtue that confers well-orderedness. Indeed, Socrates will reject them as worthless, if this is the best that their inquiry can come up with.
+
+
+
+
