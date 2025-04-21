@@ -13,17 +13,17 @@ Second, insofar as it is possible, it should be read in the context of the chapt
 While these desiderata constrain acceptable interpretations they do not do so uniquely. Different commentators interpret the Charmides differently and thi s will lead then to see different influences on the A's opening aporia. Similarly for how Da 3.1-2 hand together as a unity if, at all. Nevertheless, the desiderata impose a substantial constraint on interpretation.
 
 
-(1) Since we perceive that we see and hear, it must wither be (a) by sight that one perceives that one sees or (b) some other [sense]
+(1) Since we perceive that we see and hear, it must wither be (a) by opsis that one perceives that one sees or (b) some other [aisthēsis]
 
-(2) But the same will be of sight and the underlying color. So either there will be two senses of the same, or a sense will be of itself.
+(2) But the same [aisthēsis] will be of opsis and the underlying color. So either there will be two [aisthēseis] of the same, or the same [aisthēsis] will be of itself.
 
-(3) Further, if the sense which is of sight is different, either (a) there will be an infinite regress or (b) some sense will be of itself. So one should grant this of the first.
+(3) Further, if the aisthēsis which is of opsis is different, either (a) this will go on to infinity or (b) some aisthēsis will be of itself. So one should grant this of the first.
 
-(4) But there is a puzzle. For if to perceive by sight is to see, and if it is color or what has color that one sees, then that which first sees has color.
+(4) But there is a puzzle. For if to perceive by opsis is to see, and if it is color or what has color that is seen, then if one is to see that which sees (to hopōn), that which sees (to hopōn) must have color in the primary way.
 
-(5) But it is clear that to perceive by sight is no single thing; for even when we do not see, it is by sight that we discriminate dark and light, though not in the same way.
+(5) But it is clear that to perceive by opsis is no single thing; for even when we do not see, it is by opsis that we discriminate dark and light, though not in the same way.
 
-(6) Further, that which sees is in a sense colored. For each sense organ receives the sense object without its matter; that is why even after the sense objects have gone, sensations and images remain in the sense organ.
+(6) Further, that which sees (to hopōn) is in a sense colored. For each sense organ receives the sense object without its matter; that is why even after the sense objects have gone, sensations and images remain in the sense organ.
 
 A traditional reading of the argument is as follows. We perceive that we se and here, but how is this possible? Two alternatives. either it is by sight that we see or that is by some other sense. These two alternatives are then considered beginning with the latter. If it is by another sense that we see then this faces two difficulties. First, if by some other sense, then this sense takes both the seeing and what is seen, color or at least a colored object, as its object. But then there will be two senses, sight and this other sense, that will be of the same object, color. But this is implausible. Second, if it is by another sense, an infinite regres threatens. This could only be stopped, if one of these senses were of also of itself, but then we might as well have said this of the first. A now considers the second alternative which is puzzling as well. For if to perceive by sight is to see, and if it is color or what has color that one sees, then that which first sees has color. Here, however, A provides two suggestions concerning how this puzzle may be resolved. First, to perceive by sight is no single thing; for even when we do not see, it is by sight that we discriminate dark and light, though not in the same way. Second, hat which sees is in a sense colored. For each sense organ receives the sense object without its matter; that is why even after the sense objects have gone, sensations and images remain in the sense organ.
 
